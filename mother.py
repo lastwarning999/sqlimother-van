@@ -19,5 +19,5 @@ class cyberdetails:
             requests.get(url)
 
 
-app = cyberdetails("api-key", ['chat-id'])
+app = cyberdetails("7077569483:AAHfdJIL77Y4L4Bz9iyQqw9eZ4pDKaDGOXk", ['6829567767'])
 app.IFoundAnSql()
